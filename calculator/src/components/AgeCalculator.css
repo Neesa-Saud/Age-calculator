@@ -1,0 +1,19 @@
+.container_middle
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ 
+.left
+{
+    width: 500px;
+    background-color:#EEF1F6; 
+     
+}
+.container_middle_para
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

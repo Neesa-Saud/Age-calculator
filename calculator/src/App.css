@@ -1,0 +1,10 @@
+.App
+{
+    background-color: #F4F9FF;
+    display: flex;
+    justify-content: center;
+    /* width: 1530px; */
+    height: 500px;
+    padding: 5rem;
+     
+}
